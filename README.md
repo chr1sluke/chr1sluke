@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Chris1
-- 🌱 I’m currently a sophmore
+- 👋 Hi, I’m Chris
+- 🌱 I’m currently a sophomore
 - 📫 How to reach me:- chrislukerens@gmail.com
 
 <!---
