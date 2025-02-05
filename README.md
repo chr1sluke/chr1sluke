@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chr1sluke
-- 🌱 I’m currently learning ML and C
-- 📫 How to reach me:- IG- @beingchrisluke
+- 👋 Hi, I’m Chris1
+- 🌱 I’m currently a sophmore
+- 📫 How to reach me:- chrislukerens@gmail.com
 
 <!---
 chr1sluke/chr1sluke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
